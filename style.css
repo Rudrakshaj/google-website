@@ -55,7 +55,7 @@
         .header img{
         justify-self: center;
         align-self: center;
-        max-width:100px;
+        max-width:200px;
         }
         .search{
         display: flex;
